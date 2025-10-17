@@ -41,14 +41,6 @@ It includes customer data for a telecom company with multiple attributes like te
 
 ---
 
-## Data Analysis (DAX)
-- Measures were created in Power BI using **DAX** to calculate KPIs such as:  
-  - Average Monthly Charges  
-  - Average Total Charges  
-  - Churn Rate  
-- Additional calculated measures were created to analyze customer behavior and subscription patterns.  
-
----
 
 ## Data Visualization (Dashboard)
 - An interactive Power BI dashboard was created using the cleaned dataset and DAX measures.  
